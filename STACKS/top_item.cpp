@@ -18,3 +18,6 @@ stack<int>mystack;
 
  return 0;
 }
+
+
+// Output: Top element of stack is: 60
